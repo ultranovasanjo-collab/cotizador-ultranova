@@ -1,2 +1,0 @@
-# cotizador-ultranova
-index.html
